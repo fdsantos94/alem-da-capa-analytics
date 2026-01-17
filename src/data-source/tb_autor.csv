@@ -1,86 +1,90 @@
-IdAutor;Autor
-1;Vi Keeland
-2;Jerilee Kaye
-3;Jenifer L. Armentrout
-4;Cora Reilly
-5;Elle Kennedy
-6;Olivia Uviplais
-7;Tabatha Suzuma
-8;Mira Lyn Kelly
-9;Erin Mc Carthy
-10;Alice Bianchi
-11;Kate Meader
-12;Elena Armas
-13;Laura Kaye
-14;Collen Hoover
-15;Amanda Pereira
-16;Lua Exmovi
-17;Ali Hazelwood
-18;Beth O Leary
-19;Thamy Bastida
-20;L. A. Casey
-21;Brenda Paiva
-22;Nana Pauvolih
-23;Lana Silva
-24;Nina Higgins
-25;Bianca Pohndorf
-26;Vivy Keury
-27;Aline Damasceno
-28;Brittainy C. Cherry
-29;Lola Belluce
-30;Lady Nighti
-31;C. C. Hunter
-32;Tillie Cole
-33;Abbi Glines
-34;Genevieve
-35;Priscilla Lima
-36;Julia Menezes
-37;Juliana Dantes
-38;Lissa Kay Adams
-39;H.D Carlton
-40;Emily Henry
-41;Amy Lea
-42;Yule Travalon
-43;Re Lemos
-44;Michelle Passos
-45;Flavia Padula
-46;Paola Aleksandra
-47;Pam Godwin
-48;Tayana Alvez
-49;Laura Amorim
-50;Cinthia Basso
-51;Thalissa Betineli
-52;Christina Lauren
-53;Sara Fidélis
-54;Dri Satys
-55;Jane Austen
-56;Lauren Kate
-57;Rebecca Carvalho
-58;Kristina Forest
-59;Vi Keeland, Penelope Waid
-60;Heather Morris
-61;Neva Altaj
-62;Carina Rissi
-63;Alex Michaelides
-64;Lorraine Heath
-65;S.T Abby
-66;Robinne Lee
-67;Abby Jimenez
-68;Dani Atrins
-69;Lyssa Kay Adams
-70;Agatha Christie
-71;Dana Schwartz
-72;Anne Sophie
-73;Annie Darling
-74;Julie Caplin
-75;Lucy Diamond
-76;Jenny Colgan
-77;Lola Salgado
-78;Charlie Donlea
-79;Ellie Midwood
-80;Susan Wiggs
-81;Sarah Morgan
-82;Kerri Maniscalco
-83;Hannah Nicole Maehrer
-84;Colleen Hoover
-85;Maurice Leblanc
+IdAutor;Autor;Imagem Autor
+1;Vi Keeland;https://covers.storytel.com/contributor/54314/8cb8161d-a2e4-42ae-a04c-5ba7b46898e6.jpg?optimize=high&quality=70&width=600
+2;Jerilee Kaye;https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFwgGzIvI5xwnCnHcrJ4F6OPGOgoJyBbeAqA&s
+3;Jennifer L. Armentrout;https://m.media-amazon.com/images/S/amzn-author-media-prod/h030r3g0j8vi8jm0p6kc8tguqo.jpg
+4;Cora Reilly;https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRv213W4puchC8MYzu6aZPJMcYnYITTDkOXQg&s
+5;Elle Kennedy;https://m.media-amazon.com/images/S/amzn-author-media-prod/ujfkmljn7cuqkd6d70uf0vtjuj._SX432_CR0%2C0%2C432%2C432_.jpg
+6;Olivia Uviplais;https://m.media-amazon.com/images/S/amzn-author-media-prod/84phuah3qgm6itjrqshd5jh64g.jpg
+7;Tabitha Suzuma;https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIcM3_Ud5O5cmS5HvSPkVPZMlbsFXYvEnYuQ&s
+8;Mira Lyn Kelly;https://m.media-amazon.com/images/S/amzn-author-media-prod/slpjl7nhs6mue3sd4m8em8pueu.jpg
+9;Erin Mccarthy;https://m.media-amazon.com/images/S/amzn-author-media-prod/13u7e5t52tue0f8lbdat0bdojf.jpg
+10;Alice Bianchi;https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStGYTgTi8dp0K9diC-mpX0QvyIniPG9sZxFQ&s
+11;Kate Meader;https://m.media-amazon.com/images/S/amzn-author-media-prod/ne3pcnhv9dultokt0dss14ekiu.jpg
+12;Elena Armas;https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTunbhrwHZzcTxD7YCtdU-voS9rPanG1FCKnQ&s
+13;Laura Kaye;https://m.media-amazon.com/images/S/amzn-author-media-prod/subbpppg8sr5esq74c14n3uql6._SY600_.jpg
+14;Colleen Hoover;https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgUlFo9TcCFz0SrAHuVpam_VgKvJrzjDB-GA&s
+15;Amanda Pereira;https://pbs.twimg.com/profile_images/1980428364583145472/MNz45j3Y.jpg
+16;Lua Exmovi;https://m.media-amazon.com/images/I/01Kv-W2ysOL._SY600_._SL200_._PQ50_._FMwebp_.png
+17;Ali Hazelwood;https://s2-oglobo.glbimg.com/NecvpmbggAeah5BdEAxaeVvSzIQ=/0x0:2249x1841/888x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_da025474c0c44edd99332dddb09cabe8/internal_photos/bs/2023/6/y/IxmtARQbORn1ZvMh55wg/ali.jpg
+18;Beth O Leary;https://static.ndmais.com.br/2023/03/beth-o-leary.jpg
+19;Thamy Bastida;https://m.media-amazon.com/images/S/amzn-author-media-prod/r7upp6ghg1g62s62ec4nojsf0i.jpg
+20;L. A. Casey;https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGYbP7ecqGP_J5hV_5-FAj3UriR8iFtrJ8zA&s
+21;Brenda Paiva;https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1zgho3jdCNnKFeYC5BioWUf-Nuwd5ypJDgA&s
+22;Nana Pauvolih;https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQir4lFc77m9Q_n17ZvEBF14hLUk2dVGRc0w&s
+23;Lana Silva;https://m.media-amazon.com/images/S/amzn-author-media-prod/425m674ega6un0d8otd9bnqp3p.jpg
+24;Nina Higgins;https://m.media-amazon.com/images/S/amzn-author-media-prod/mju6q80up11l3v9elm3e6uahk1._SY450_CR0%2C0%2C450%2C450_.jpg
+25;Bianca Pohndorf;https://i.pinimg.com/280x280_RS/d3/98/02/d3980204dcb873bffade0ca484a811de.jpg
+26;Vivy Keury;https://pbs.twimg.com/profile_images/1671959492018184201/J9FP-7iS_400x400.jpg
+27;Aline Damasceno;https://m.media-amazon.com/images/S/amzn-author-media-prod/gr3a0o7mrahksl50drlpkvp34o.jpg
+28;Brittainy C. Cherry;https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStVkOl0ucnJkIhH-x4V8zCKl8HKKxcpnCpxg&s
+29;Lola Belluci;https://m.media-amazon.com/images/S/amzn-author-media-prod/c5ne12tp5vopje4rfv9g977tga.jpg
+30;Lady Nighti;https://m.media-amazon.com/images/I/01Kv-W2ysOL._SY600_._SL200_._PQ50_._FMwebp_.png
+31;C. C. Hunter;https://todateen.com.br/wp-content/uploads/2014/01/cchunter.png
+32;Tillie Cole;https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSc1RnVhyLHcI6UeGg9PVzHJd-WHk1M5LRtFA&s
+33;Abbi Glines;https://www.editoraarqueiro.com.br/media/upload/autor/AbbiHeadshot2016.jpeg.180x270_q85_upscale.jpg
+34;Genevieve;https://m.media-amazon.com/images/S/amzn-author-media-prod/i96ml1qha4bpjqokjm9me7q6a9.jpg
+35;Priscilla Lima;https://m.media-amazon.com/images/S/amzn-author-media-prod/lh298igrhnrmo2u6i7sukgsns9._SY450_CR0%2C0%2C450%2C450_.jpg
+36;Julia Menezes;https://m.media-amazon.com/images/S/amzn-author-media-prod/u4k8eqtme3pmbhetif9t4he63b.jpg
+37;Juliana Dantas;https://m.media-amazon.com/images/S/amzn-author-media-prod/sc473kn0icuaqr34ut20iiejd0._SY300_CR0%2C0%2C300%2C300_.jpg
+38;Lyssa Kay Adams;https://www.editoraarqueiro.com.br/media/upload/autor/lyssa.png.180x270_q85_upscale.jpg
+39;H.D Carlton;https://hdcarlton.com/wp-content/uploads/2022/05/20210902_172433-768x1024.jpg
+40;Emily Henry;https://m.media-amazon.com/images/S/amzn-author-media-prod/qgushojm4202cgqeh9lv86g2a7._SY450_CR0%2C0%2C450%2C450_.jpg
+41;Amy Lea;https://m.media-amazon.com/images/S/amzn-author-media-prod/rteh3jha36edoubqsfti8ccsbe.jpg
+42;Yule Travalon;https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUGL-74Tcqe8QyOSnjh197rmpPIiBIj0Kukw&s
+43;Re Lemos;https://m.media-amazon.com/images/S/amzn-author-media-prod/grs6otv9vi9cf00ugnaksg12hc._SY450_CR0%2C0%2C450%2C450_.jpg
+44;Michelle Passos;https://m.media-amazon.com/images/S/amzn-author-media-prod/nreetj8es791md9soqhadslsoe._SY450_CR0%2C0%2C450%2C450_.jpg
+45;Flavia Padula;https://m.media-amazon.com/images/S/amzn-author-media-prod/4skhu3rg6l0gi05t9skj243442._SY600_._SL200_._PQ50_._FMwebp_.jpg
+46;Paola Aleksandra;https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNbNgJNZyE1EyJ8gg0uViT_zAxgIEZlitzZQ&s
+47;Pam Godwin;https://m.media-amazon.com/images/S/amzn-author-media-prod/7sc6qkuac7rnrogjj7vv7et5tg._SY600_.jpg
+48;Tayana Alvez;https://m.media-amazon.com/images/S/amzn-author-media-prod/6ub6vn5nk1b9i1vdvmd34g6or1._SY450_CR0%2C0%2C450%2C450_.jpg
+49;Laura Amorim;https://m.media-amazon.com/images/S/amzn-author-media-prod/96ftcm38hau4g4mchgvq46t859._SY600_.jpg
+50;Cinthia Basso;https://m.media-amazon.com/images/S/amzn-author-media-prod/r33qml519o4r44crifglbg1vmp._SY600_._SL200_._PQ50_._FMwebp_.jpg
+51;Thalissa Betineli;https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQo6v134ywE3383Fr8qAOChxOf3hOatejhMWQ&s
+52;Christina Lauren;https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDoVhW9P4ZxYz4cfo0PjM95rXATVZ9m8iUnbn_y3F5dGC3aU6zWzW-qjhpqqtN6IRntbPSOHrpBGE3dp0MwmNnYQsbyKy81emB_2cAIR6WJI_IcPx4T8oR6yH1IWqrk32jHcEPg-kfQC1wD5-7hk5bgy702nd-jfjkqhBfzF5sHL4eXimjuUlwEHYt/s1024/262440238_1235750403613101_1112345670340037469_n-1024x731.jpg
+53;Sara Fidélis;https://m.media-amazon.com/images/S/amzn-author-media-prod/bnht9lq553r2gqrka9htfdu7lq._SY450_CR0%2C0%2C450%2C450_.jpg
+54;Dri Satys;https://m.media-amazon.com/images/S/amzn-author-media-prod/o0rik4njro3urphnpvliufkl5s.jpg
+55;Jane Austen;https://cdn.jornaldebrasilia.com.br/wp-content/uploads/2025/11/21034611/janeausten-620x620.jpg
+56;Lauren Kate;https://m.media-amazon.com/images/S/amzn-author-media-prod/hmih9dtab6d2o0hejdopa9ceut.jpg
+57;Rebecca Carvalho;https://m.media-amazon.com/images/S/amzn-author-media-prod/qnkbiimh8k8fvtj1sm087on1kg._SY450_CR0%2C0%2C450%2C450_.jpg
+58;Kristina Forest;https://darkside.blog.br/wp-content/uploads/2021/10/Kerri-Maniscalco-820x1024.jpg
+59;Vi Keeland, Penelope Ward;https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFfvpJrgCeTnZYtXE8kiN1OkDoBWz88jjmwA&s
+60;Heather Morris;https://m.media-amazon.com/images/I/61U67esjPlL.jpg
+61;Neva Altaj;https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR94vEyPG0Nej6LxK5pZS6169JBUT3-g9L2zA&s
+62;Carina Rissi;https://yata.s3-object.locaweb.com.br/0590f4f16a90ab1ce8eb017a84e00ac8096264823a35aa16d70af40e4ce0b95a
+63;Alex Michaelides;https://mpd-biblio-authors.imgix.net/200068559.jpg?fit=crop&crop=faces&w=290&h=290
+64;Lorraine Heath;https://m.media-amazon.com/images/I/51IAQzry6qL.jpg
+65;S.T Abby;https://m.media-amazon.com/images/I/01Kv-W2ysOL._SY600_._SL200_._PQ50_._FMwebp_.png
+66;Robinne Lee;https://cdn.querolivro.com.br/images/authors/robinne-lee.jpg?md5=74869a52051b26cffbc4d23f579d15fa&w=640&q=50&v=1
+67;Abby Jimenez;https://www.editoraarqueiro.com.br/media/upload/autor/foto_nova_-_agosto_2024.jpg.180x270_q85_upscale.jpg
+68;Dani Atkins;https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGXXnMtxN6dCQjQyN3Ey14fDGArL3aCgU_yg&s
+69;Lyssa Kay Adams;https://www.editoraarqueiro.com.br/media/upload/autor/lyssa.png.180x270_q85_upscale.jpg
+70;Agatha Christie;https://f.i.uol.com.br/fotografia/2019/12/22/15770610105e000a9231849_1577061010_2x3_md.jpg
+71;Dana Schwartz;https://br.web.img3.acsta.net/c_310_420/pictures/20/09/08/17/58/0692764.jpg
+72;Anne Sophie;https://upload.wikimedia.org/wikipedia/commons/0/0b/Anne-Sophie_Mutter_B10-13_%28cropped%29.jpg
+73;Annie Darling;https://cdn1.booknode.com/author_picture/5370/annie-darling-5369599-330-540.jpg
+74;Julie Caplin;https://m.media-amazon.com/images/S/amzn-author-media-prod/9a17ltb4g6amig2dgr021iakji.jpg
+75;Lucy Diamond;https://www.editoraarqueiro.com.br/media/upload/autor/lucy-diamond.jpg.180x270_q85_upscale.jpg
+76;Jenny Colgan;https://www.editoraarqueiro.com.br/media/upload/autor/Foto_JennyColgan.png.180x270_q85_upscale.jpg
+77;Lola Salgado;https://m.media-amazon.com/images/S/amzn-author-media-prod/e3am7csg5k44bm4n56s0qarb2r.jpg
+78;Charlie Donlea;https://m.media-amazon.com/images/S/amzn-author-media-prod/nk92uppg9hal14fmdgjnkpoc65.jpg
+79;Ellie Midwood;https://pub-4b2bfd845f7048b9a5ad48aa25969943.r2.dev/author/ellie-midwood.jpg
+80;Susan Wiggs;https://m.media-amazon.com/images/S/amzn-author-media-prod/mp400a09esm1hlrik4j5oaufkc._SY600_.jpg
+81;Sarah Morgan;https://m.media-amazon.com/images/S/amzn-author-media-prod/7jkqkl48r5t8p2klfa2fvndacb.jpg
+82;Kerri Maniscalco;https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNQWVR6QCWnin2B-D_Ca2Bud31gmpRpN7V4A&s
+83;Hannah Nicole Maehrer;https://m.media-amazon.com/images/S/amzn-author-media-prod/gtm8pev8q6ojgdqu3fn8tlsl90.jpg
+84;Colleen Hoover;https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgUlFo9TcCFz0SrAHuVpam_VgKvJrzjDB-GA&s
+85;Maurice Leblanc;https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Maurice-leblanc.jpg/250px-Maurice-leblanc.jpg
+86;Rina Kent;https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnoZKZt4xIZX7ZqL44_xXh6ggsuNeI8fbxkQ&s
+87;Lia Louis;https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTFEo3TS4bPYbdW-JQIWNAyTTpZtmFR_1q-g&s
+88;Fernanda Santana;https://m.media-amazon.com/images/S/amzn-author-media-prod/7t7hm93um8c20toqt93g2apd0v.jpg
+89;Lynn Painter;https://festivalofauthors.ca/wp-content/uploads/2024/08/Painter-Lynn_credit-Jackson-Okun-Headshot_square.jpg
