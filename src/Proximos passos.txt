@@ -1,0 +1,15 @@
+
+visão por gênero
+visão por editora
+visão por personagens
+visão por livro do mês e favoritos
+
+%lido por autor
+%lido por gênero
+%lido por editora
+%lido por formato
+
+tempo de leitura x avaliação
+top 10 livros mais longos
+top 10 livros mais curtos
+
