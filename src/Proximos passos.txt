@@ -13,3 +13,14 @@ tempo de leitura x avaliação
 top 10 livros mais longos
 top 10 livros mais curtos
 
+personagem de acordo com o tema da leitura ou com o autor/gênero mais lido
+
+projeção de leitura
+
+Sépia Suave (Fundo): #F3E5AB
+
+Verde Oliva (Destaques): #708238
+
+Terracota (Gráficos): #E2725B
+
+Azul Petróleo (Títulos): #2E5060
